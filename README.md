@@ -1,1 +1,1 @@
-# pandas-challenge
+This report contains important information on student demographics and academic performance from multiple schools, which is generally brings data from math and Reading results as well as the budget of each schools in 4 grades and the relations between budget/size and the final math/reading/overal results.
